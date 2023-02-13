@@ -1,1 +1,4 @@
-﻿RunAction "Action1", oneIteration
+﻿RunAction "LaunchBrowser", oneIteration
+RunAction "login", oneIteration
+RunAction "CheckAccountsNumber", oneIteration
+RunAction "Logout", oneIteration
